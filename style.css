@@ -7,26 +7,20 @@ html{
 .div{
     font-family: 'Fira Code', monospace;
     font-size: 24px;
-    margin: 25px;
-    width: 25%;
     height: 200px;
     top: 25%;
-    left: 37.5%;
     display: flex;
     color: white;
     justify-content: center;
-    position: absolute;
+    position: relative;
 }
 .comingsoon{
     font-family: 'Fira Code', monospace;
     font-size: 16px;
-    top: 35%;
-    left: 37.5%;
-    width: 25%;
-    height: 200px;
-    margin: 25px;
+    top: 5%;
+    height: 16px;
     justify-content: center;
     display: flex;
     color: white;
-    position: absolute;
+    position: relative;
 }
